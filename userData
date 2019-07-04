@@ -1,4 +1,5 @@
 {
   "image_url": "https://raw.githubusercontent.com/apideveloperdan/testapi/master/medal.png",
-  "text": "This is an example text."
+  "text": "This is an example text.",
+  "description": "This is the best game that you will ever play"
 }
